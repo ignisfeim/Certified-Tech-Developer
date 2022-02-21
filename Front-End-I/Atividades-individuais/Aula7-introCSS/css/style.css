@@ -1,0 +1,27 @@
+
+h1 {
+    color: teal;
+    font-size: 100px;
+
+}
+.titulo-principal{
+    color:blueviolet;
+    font-size: 30px;
+}
+    
+
+#lista-de-compras {
+    color: darkgreen;
+    font-size:50px;}
+    
+
+.quadrinhos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}    
+
+.font-dh {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: rgb(44, 40, 40);
+    }    
