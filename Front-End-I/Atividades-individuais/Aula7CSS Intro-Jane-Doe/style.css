@@ -1,0 +1,30 @@
+body {
+  background-color: #dfd7b9;
+  color: #333333;
+}
+h1 {
+  color: #0d1b97;
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
+
+.job-title {
+  background-color: #1726ad;
+  color: #898dbe;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  
+}
+#high {
+  color: #0d1b97;
+}
+ul {
+  background-color: #333333;
+  color: #dfd7b9;
+  padding: 10px;
+}
+#info{
+  color: #dfd7b9
