@@ -1,21 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 body {
-    background-color:#131313;
+    background-color:#000000;
+    
+    
 }
 h1 {
     color: white;
     font-family: roboto;
+    text-decoration: underline;
+    text-decoration-color: rgb(96, 14, 14);
    
 }
 .media-picture {
     height: 600px;
     background-color: rgb(99, 97, 95);
-    background-image:url('../img/avengers-endgame-poster-top-half-1024x705.jpg');
+    background-image:url('../img/a2524dfa5d8dbe3e4b822136d45245fa.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 10%;
-    border-color: #bdbdbd;
+    border-style: groove;
+    border-color: rgb(102, 24, 24);
+   
+    
 }
 .review-score {
     color: white;
