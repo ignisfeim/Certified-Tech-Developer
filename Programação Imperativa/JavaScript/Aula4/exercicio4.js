@@ -3,8 +3,8 @@ let idade = 27;
 let peso = 83.5;
 let altura = 1.70;
 let plano = ("Ouro");
-let mult = ( altura * altura )
-let IMC = ( peso / mult)
+
+let IMC = peso / (altura * altura)
 
 
 
