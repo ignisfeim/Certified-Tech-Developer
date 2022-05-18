@@ -18,7 +18,7 @@ function microOndas(Alimento,tempo){
                 console.log("-----------------------------------")
                 console.log("Comida selecionada: Pipoca")
                 console.log("tempo insuficiente");
-                console.log("Prato pronto, bom apetite!!!");
+                console.log("Prato quase pronto, bom apetite!!!");
                 console.log("-----------------------------------")
             }else{
                 console.log("-----------------------------------")
@@ -47,7 +47,7 @@ function microOndas(Alimento,tempo){
                 console.log("-----------------------------------")
                 console.log("Comida selecionada: Macarrão")
                 console.log("tempo insuficiente");
-                console.log("Prato pronto, bom apetite!!!");
+                console.log("Prato quase pronto, bom apetite!!!");
                 console.log("-----------------------------------")
             }else{
                 console.log("-----------------------------------")
@@ -75,7 +75,7 @@ function microOndas(Alimento,tempo){
                     console.log("-----------------------------------")
                     console.log("Comida selecionada: Carne")
                     console.log("tempo insuficiente");
-                    console.log("Prato pronto, bom apetite!!!");
+                    console.log("Prato quase pronto, bom apetite!!!");
                     console.log("-----------------------------------")
                 }else{
                     console.log("-----------------------------------")
@@ -103,7 +103,7 @@ function microOndas(Alimento,tempo){
                         console.log("-----------------------------------")
                         console.log("Comida selecionada: Feijão")
                         console.log("tempo insuficiente");
-                        console.log("Prato pronto, bom apetite!!!");
+                        console.log("Prato quase pronto, bom apetite!!!");
                         console.log("-----------------------------------")
                     }else{
                         console.log("-----------------------------------")
@@ -131,7 +131,7 @@ function microOndas(Alimento,tempo){
                             console.log("-----------------------------------")
                             console.log("Comida selecionada: Brigadeiro")
                             console.log("tempo insuficiente");
-                            console.log("Prato pronto, bom apetite!!!");
+                            console.log("Prato quase pronto, bom apetite!!!");
                             console.log("-----------------------------------")
                         }else{
                             console.log("-----------------------------------")
