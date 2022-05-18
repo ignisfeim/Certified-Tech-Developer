@@ -143,7 +143,7 @@ function microOndas(Alimento,tempo){
                     }
     }
     //----------------------------------------------//
-    //Tipos de alimento para Uso//
+    //Tipos de alimento para Uso no MicroOndas//
     //"pipoca"
     //"macarrão"
     //"carne"
